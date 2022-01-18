@@ -3,8 +3,8 @@
 
 ## Install Project
 
-    $ git clone https://github.com/khobbie/ExpectedSalaryDetails_HapiJs_.git
-    $ cd ExpectedSalaryDetails_HapiJs_
+    $ git clone https://github.com/khobbie/InvestmentInterestCalculator_HapiJs.git
+    $ cd InvestmentInterestCalculator_HapiJs
     $ npm install
     $ npm install nodemon -g
 
@@ -17,4 +17,5 @@
         http://localhost:3000/documentation
 
 * Image
-        
+  
+![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
